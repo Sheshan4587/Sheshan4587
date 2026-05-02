@@ -1,8 +1,7 @@
 ## 👋 Hi there, I'm Sheshan
 
 🎓 Computer Science Undergraduate  
-💻 Full Stack Developer | QA Enthusiast  
-🌍 Based in Sri Lanka  
+💻 Full Stack Developer  
 
 ---
 
