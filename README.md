@@ -1,16 +1,48 @@
-## Hi there 👋
-## i m sheshan 
-<!--
-**Sheshan4587/Sheshan4587** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi there, I'm Sheshan
 
-Here are some ideas to get you started:
+🎓 Computer Science Undergraduate  
+💻 Full Stack Developer | QA Enthusiast  
+🌍 Based in Sri Lanka  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 🚀 About Me
+- 🔭 I’m currently working on an RFID-based Warehouse Management System (AxaCrate)
+- 🌱 I’m learning Full Stack Development (React, Spring Boot, Node.js)
+- 🧪 Interested in Software Testing & API Testing (Postman)
+- 💡 Passionate about building real-world applications
+- 🎯 Goal: Become a skilled Full Stack Developer
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+- Java
+- Python
+- JavaScript
+- SQL
+- PHP
+
+### 🌐 Frontend
+- HTML
+- CSS
+- React.js
+
+### ⚙️ Backend
+- Node.js
+- Express.js
+- Spring Boot
+
+### 🗄️ Databases
+- MongoDB
+- PostgreSQL
+
+### 🧪 Testing
+- Postman (API Testing)
+- Manual Testing
+
+---
+
+⭐ *Always learning, always building*
 -->
