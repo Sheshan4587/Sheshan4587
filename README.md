@@ -12,34 +12,6 @@
 - 💡 Passionate about building real-world applications
 - 🎯 Goal: Become a skilled Full Stack Developer
 
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-- Java
-- Python
-- JavaScript
-- SQL
-- PHP
-
-### 🌐 Frontend
-- HTML
-- CSS
-- React.js
-
-### ⚙️ Backend
-- Node.js
-- Express.js
-- Spring Boot
-
-### 🗄️ Databases
-- MongoDB
-- PostgreSQL
-
-### 🧪 Testing
-- Postman (API Testing)
-- Manual Testing
 
 ---
 
